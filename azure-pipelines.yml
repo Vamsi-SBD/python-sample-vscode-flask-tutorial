@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'd692eacd-f6bf-414e-8b44-af23a9642a34'
+  azureServiceConnectionId: '5c95fe2c-df97-4347-9c05-a99c3cbacc30'
 
   # Web app name
   webAppName: 'sbd-dev-plotly-ui'
